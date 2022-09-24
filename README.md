@@ -20,8 +20,5 @@ Setup:
 
 Info:
 
-Official Discord: https://discord.gg/Crc92V59ck
+developer is 2pac
 
-developer is blob#0005
-
-if have any problem running program or want me add anything feel free to add my discord blob#0005
